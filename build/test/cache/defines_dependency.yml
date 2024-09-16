@@ -1,0 +1,7 @@
+---
+build/test/mocks/mock_tim.c:
+- TEST
+src/hc_sr04.c:
+- TEST
+src/kiwiscan.c:
+- TEST
